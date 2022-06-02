@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubo-9439%2Fkim-subo.git&count_bg=%237BC5AE&title_bg=%23028C6A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubo-9439%2Fkim-subo.git&count_bg=%237BC5AE&title_bg=%23028C6A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🛠 &nbsp;Skills
 
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 ### 📬: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-squard&logo=Gmail&logoColor=white&link=mailto:kws3363@gmail.com)](mailto:kws3363@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-2DB400?style=flat-squard&logo=Naver&logoColor=white&link=mailto:kws3363@naver.com)](mailto:kws3363@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-2DB400?style=flat-squard&logo=Naver&logoColor=white&link=mailto:kws3363@naver.com)](mailto:kws3363@naver.com) -->
