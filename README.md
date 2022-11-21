@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics & Baekjoon Online Judge ✏️
 <p align="center">
 <a href="https://github.com/subo-9439">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sky6min&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=subo-9439&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/subo-9439">  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subo-9439&layout=compact&langs_count=8&theme=algolia"/>
